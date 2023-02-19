@@ -1,0 +1,10 @@
+*.pyc
+*.egg-info/
+*.egg
+.eggs/
+.tox/
+.vscode/
+dist
+build
+.idea
+.DS_Store
