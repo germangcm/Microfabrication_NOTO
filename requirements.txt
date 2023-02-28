@@ -40,3 +40,9 @@ seaborn==0.10.1
     # via -r requirements.in
 six==1.16.0
     # via python-dateutil
+opencv-python-headless==4.7.0.72
+    # via
+    #   -r requirements.in
+shapely==1.8.4
+    # via
+    #   -r requirements.in
